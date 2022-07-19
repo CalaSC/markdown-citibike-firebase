@@ -1,0 +1,6 @@
+name: "Citibike"
+navbar:
+  title: "Citibike"
+  left:
+    - text: "Home"
+      href: index.html

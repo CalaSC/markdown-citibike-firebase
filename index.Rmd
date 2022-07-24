@@ -17,7 +17,7 @@ citibike <-read.csv("https://firebasestorage.googleapis.com/v0/b/citybike-claudi
 
 Muestra dataset
 ===
-#Column {data-width=650}
+Column {data-width=650}
 -----------------------------------------------------------------------
 
 ### Muestra top 1000
